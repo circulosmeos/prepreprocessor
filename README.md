@@ -31,7 +31,7 @@ So:
             return 1;
         }
 
-Note that comment lines beginning with quadruple slashes are also always extracted from the final code. This allows for you to take private comments.   
+Note that comment lines beginning with quadruple slashes are also always extracted from the final code. This allows you to make private comments to your project.   
 
 Changing the command line to "COMPLETE_CODE 1" would have written only:   
 
