@@ -44,3 +44,9 @@ The pre-preprocessor can be chained for multiple pre-preprocessor labels and/or 
     perl pppc.pl mycompleteproject.c /tmp/project.c COMPLETE_CODE 0
     perl pppc.pl /tmp/project.c project.c JUST_ONE_OUTPUT 1
     perl pppc.pl mycompleteproject.h /tmp/project.h COMPLETE_CODE 0
+    
+    
+note
+----
+
+I just made this for fun! and for little projects: in case you need more "professional" options, check [unifdef](http://dotat.at/prog/unifdef/), [sunifdef](http://sourceforge.net/projects/sunifdef/) or [coan](http://coan2.sourceforge.net/) (listed in order of appearance). 
